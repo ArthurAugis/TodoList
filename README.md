@@ -1,4 +1,4 @@
-<h1>Project Todolist</h1>
+<h1>Todolist</h1>
 
 # Specifications 📋
 Development of a task management application using HTML, CSS, and JavaScript. The application aims to provide a user-friendly interface for creating, organizing, and managing tasks efficiently.
